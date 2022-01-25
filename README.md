@@ -17,7 +17,7 @@ The purpose of this assignment is to learn about Git, GitHub, and GitHub Pages. 
 
 1. Create a GitHub Page for your repo. 
 
-1. Add the link to your GitHub Page **HERE**. 
+1. Add the link to your GitHub Page **https://ds4200-s22.github.io/ic-01-karen6533/**. 
 
 1. Push your change to your remote repo. 
 
@@ -88,4 +88,4 @@ For more information on creating GitHub Pages, see the ["Creating you site"](htt
 ## Submission
 
 * Be sure to push all changes to your repo and follow all instructions above. 
-* For this portion of your assignment **submit a clickable URL to your GitHub repository** (not your GitHub Page).  
+* For this portion of your assignment **https://ds4200-s22.github.io/ic-01-karen6533/** (not your GitHub Page).  
